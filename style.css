@@ -1,0 +1,60 @@
+.topic
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 25px;
+  }
+
+.heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    float: none;
+    margin-top: 20px;
+    padding: 30px;
+  }
+.heading_div2
+  {
+    font-size: 18px ;
+  }
+.result
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+    white-space: pre-line;
+  }
+.copy_right_footer{
+  background-color: slategrey;
+  text-align: center;
+  bottom: 0;
+  position: fixed;
+  width: 100%;
+  line-height: 50px;
+  color: white;
+}
+canvas{
+  background-color: white;
+  border-radius: 25px;
+  margin-top: 400px;
+  box-shadow: 5px 5px 5px slategray lightslategray gray;
+}
+.back{
+  background-color: rgb(110, 135, 246);
+}
+.div1{
+  background-color: azure;
+}
+.testDiv{
+  background-color: blanchedalmond;
+  border-radius: 20px;
+  padding: 30px;
+}
+.result{
+  background-color: rgb(170, 108, 228);
+}
+span{
+  color: aqua;
+}
